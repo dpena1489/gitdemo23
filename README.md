@@ -1,2 +1,2 @@
 # gitdemo23
-Demo git cloning to local machine 
+Demo of Git Cloaning to local machine for new students
